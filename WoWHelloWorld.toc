@@ -2,6 +2,6 @@
 ## Title: WoWHelloWorld
 ## Notes: Prints "Hello, (player name)" to the chat.
 ## Author: RiightX
-## Version: 0.1.1
+## Version: 0.1.2
 
 main.lua
