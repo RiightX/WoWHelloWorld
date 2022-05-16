@@ -4,4 +4,7 @@
 ## Author: RiightX
 ## Version: 0.1.2
 
+## X-Wago-ID: vEGPpOG1
+## X-WoWI-ID: 26310
+
 main.lua
