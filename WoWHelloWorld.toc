@@ -1,0 +1,10 @@
+## Interface: 90200
+## Title: WoWHelloWorld
+## Notes: Prints "Hello, (player name)" to the chat.
+## Author: RiightX
+## Version: 0.1.1
+
+## X-Wago-ID: vEGPpOG1
+## X-Curse-Project-ID: 623892
+
+main.lua
