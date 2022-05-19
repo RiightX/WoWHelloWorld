@@ -1,4 +1,4 @@
-name: Package addon
+name: Package beta addon
 
 on:
   push:
