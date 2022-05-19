@@ -4,6 +4,7 @@
 ## Author: RiightX
 ## Version: 0.1.2
 
+## X-Curse-Project-ID: 623892
 ## X-Wago-ID: 9rN4ovGD
 ## X-WoWI-ID: 26310
 
