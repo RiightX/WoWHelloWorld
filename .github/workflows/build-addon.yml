@@ -7,7 +7,9 @@ on:
     tags:
       - '*'
       - '!**-classic'
-      - '!**-rc*'
+      - '!**-rc**'
+      - "!**-alpha**"
+      - "!**-beta**"
     paths-ignore:
       - '.github/**'
   workflow_dispatch:
