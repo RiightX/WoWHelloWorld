@@ -1,5 +1,5 @@
-SLASH_HELLO1 = "/helloworld"
-SLASH_HELLO2 = "/msg"
+SLASH_HELLO1 = "/whw"
+SLASH_HELLO2 = "/wowhelloworld"
 
 local function showGreeting(name)
     local greeting = "Hello, " .. name .. "!"
