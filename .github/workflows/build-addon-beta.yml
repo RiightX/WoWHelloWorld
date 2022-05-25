@@ -6,6 +6,7 @@ on:
       - main
     tags:
       - "**-beta**"
+      - "**-rc**"
     paths-ignore:
       - '.github/**'
   workflow_dispatch:
