@@ -9,6 +9,7 @@ on:
       - "**-rc**"
     paths-ignore:
       - '.github/**'
+      - '**/README.md'
   workflow_dispatch:
 
 jobs:
@@ -27,7 +28,7 @@ jobs:
 #          args: -q
 
       - name: Package
-        uses: BigWigsMods/packager@master
+        uses: BigWigsMods/packager@v2
         env:
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
           WOWI_API_TOKEN: ${{ secrets.WOWI_API_TOKEN }}
