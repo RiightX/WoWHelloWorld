@@ -2,7 +2,7 @@
 ## Title: WoWHelloWorld
 ## Notes: Prints "Hello, (player name)" to the chat.
 ## Author: RiightX
-## Version: 0.1.4
+## Version: 10.2.0-001
 
 ## X-Curse-Project-ID: 623892
 ## X-Wago-ID: 9rN4ovGD
